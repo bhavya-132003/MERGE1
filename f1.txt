@@ -1,2 +1,4 @@
 created file1
-modified file1 in master
+
+
+modified file1 in branch2
